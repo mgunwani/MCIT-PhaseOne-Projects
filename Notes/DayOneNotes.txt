@@ -1,0 +1,84 @@
+
+Bhawna Gunwani:
+
+Phase 1: Agile Scrum Methodology, GIT and C# Programming
+
+--------------------------------------------------------
+
+Visual Studio 2019
+Sql Server and Sql Server Management Studio
+Visual Studio Code
+
+--------------------------------------------------------
+
+Agile Scrum Methodology:
+
+Software Development Life Cycle:
+
+	1. Gather Requirements
+	2. Analysis of Requirements
+	3. Design
+	4. Coding
+	5. Testing
+	6. Maintanance
+
+------------------------------------------------------------
+
+Agile: A software development process model where development and testing activities goes parallelly and collaboratively.
+		
+Agile Process: Allows the developers and testers together to work in a team i.e. known as Agile Team.
+		
+Agile Team:	 Developer + Tester + Product Managers.
+			
+Most of the time, documentation is avoided in Agile Process.
+Instead of documentation, we need Epic & Story in Agile Process.
+
+Epic: Large and High Level Requirement.
+
+Features: We have to derived Epic into smaller pieces i.e. Called Features
+
+Stories: Divided into further small requirements called Stories.
+
+Story is a Smallest Requirement.
+
+Roles in Agile:
+
+Product Owner: Responsible for getting requirements from customer/stakeholder.
+
+Scrum Master: is an fascilitator between Product Owner and Scrum Teams.
+
+Scrum Team:	Developers and Testers who work together to achieve goals.
+
+Sprint Planning Meeting: Joined by Product Owner, Scum Master and Scum Team.
+
+JIRA Tool: 
+
+	- Helps to Manage Agile Process.
+	- Helps in Creating Product Backlogs
+	- Helps in Creating Sprints/Iterations.
+	- We can write and Execute Test Cases.
+	- Update th Status of Completed Tasks.
+	- and so on.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

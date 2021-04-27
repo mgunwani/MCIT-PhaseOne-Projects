@@ -1,0 +1,13 @@
+C:\Users\BhawnaGunwani\source\repos\CSharpFundamentals\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.exe
+C:\Users\BhawnaGunwani\source\repos\CSharpFundamentals\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.deps.json
+C:\Users\BhawnaGunwani\source\repos\CSharpFundamentals\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.runtimeconfig.json
+C:\Users\BhawnaGunwani\source\repos\CSharpFundamentals\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.runtimeconfig.dev.json
+C:\Users\BhawnaGunwani\source\repos\CSharpFundamentals\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.dll
+C:\Users\BhawnaGunwani\source\repos\CSharpFundamentals\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.pdb
+C:\Users\BhawnaGunwani\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.csprojAssemblyReference.cache
+C:\Users\BhawnaGunwani\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.AssemblyInfoInputs.cache
+C:\Users\BhawnaGunwani\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.AssemblyInfo.cs
+C:\Users\BhawnaGunwani\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\BhawnaGunwani\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.dll
+C:\Users\BhawnaGunwani\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.pdb
+C:\Users\BhawnaGunwani\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.genruntimeconfig.cache

@@ -1,0 +1,165 @@
+
+GIT:
+
+	- Distributed Version Control System and Open Source.
+	- To check/track changes in files and folders.
+	- To collaborate in teams for projects and their changes.
+	
+Two Types of Version Control System:
+
+	- Centralized VCS
+	- Distributed VCS
+	
+----------------------------------------------------------------
+
+GITHUB: 
+	
+	- A portal that maintains server repositories.
+	- A website to upload your repositories online.
+	- Provides backup.
+	- Provides Visual Interface to your repositories.
+	- Makes Collaboration Easier.
+	
+----------------------------------------------------------------
+
+	GIT != GITHUB
+	
+-----------------------------------------------------------------
+
+-- To make sure whether git is installed or not:
+
+	git --version
+	
+----------------------------------------------------------------
+
+Basic Commands:
+
+-- To initialize Git Repository: (One Time)
+
+	git init
+	
+-- To see status of Untracked files and folders:
+
+	git status
+	
+-- To track or add untracked files into tracked list:
+
+	git add .
+
+-- To again see status of Untracked files and folders:
+
+	git status
+	
+-- To commit the tracked changes:
+
+	git commit -m "First Commit"
+	
+-- To configure github account:(One Time)
+
+	git config --global user.email "gunwani.madhu@gmail.com"
+	git config --global user.name "mgunwani"
+	
+-- To add remote origin of server repository: (One Time)
+	
+	git remote add origin https://github.com/mgunwani/git-test-proj.git
+
+-- To push the recent commits to server repository:
+
+	git push -u origin master
+
+-----------------------------------------------------------------
+
+Branching and Merging:
+
+-- To get the list of branches:
+
+	git branch
+
+-- To create new Branch:
+
+	git branch BranchA
+	
+-- To get the list of branches again:
+
+	git branch
+	
+-- To checkout to BranchA
+
+	git checkout BranchA
+
+-- To get the list of branches again:
+
+	git branch
+
+----------------------------------------------------
+
+Merging BranchA to master:
+
+-- Verify the current branch:
+
+	git branch
+	
+-- Checkout to master branch:
+
+	git checkout master
+	
+-- Verify the current branch again: (It should be master branch)
+
+	git branch
+	
+-- Merge BranchA to master branch:
+
+	git merge BranchA
+	
+-- Push all pending changes to master branch:
+
+	git push -u origin master
+	
+--------------------------------------------------------------
+
+Deleting Branch:
+
+-- To delete branch from local Repository:
+
+	git branch -d BranchA
+	
+-- To delete branch from Remote or Server Repository:
+
+	git push origin --delete BranchA
+	
+--------------------------------------------------------------
+
+
+.Net Framework vs. .Net Core
+
+.Net Framework is based on Windows.
+.Net Core is based on Windows, Mac, Linux and all.
+
+.Net Framework Enterprise Edition is paid.
+.Net Core is completely open source.
+
+.Net Framework is a multi-lingual framework.
+
+------------------------------------------------
+
+Console Application: Command-Line Based Application
+
+Input and Output Operations:
+
+Namespace -> Classes -> Properties and Methods
+
+CSharpFundamentals -> Program -> main() 
+
+System -> Console -> WriteLine(), Write(), ReadLine(), Read()
+
+Output Methods:
+
+	WriteLine() - Changes line after execution 
+	Write() - Doesn't changes line after execution
+	
+Input Methods:
+
+	ReadLine();
+	Read();
+	
+----------------------------------------------------------------
