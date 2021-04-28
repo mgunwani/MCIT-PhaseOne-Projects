@@ -1,0 +1,16 @@
+C:\Users\BhawnaGunwani\source\repos\SessionTwo_CSharpFundamentals\CSharp_DataTypesAndConstructs\bin\Debug\net5.0\CSharp_DataTypesAndConstructs.exe
+C:\Users\BhawnaGunwani\source\repos\SessionTwo_CSharpFundamentals\CSharp_DataTypesAndConstructs\bin\Debug\net5.0\CSharp_DataTypesAndConstructs.deps.json
+C:\Users\BhawnaGunwani\source\repos\SessionTwo_CSharpFundamentals\CSharp_DataTypesAndConstructs\bin\Debug\net5.0\CSharp_DataTypesAndConstructs.runtimeconfig.json
+C:\Users\BhawnaGunwani\source\repos\SessionTwo_CSharpFundamentals\CSharp_DataTypesAndConstructs\bin\Debug\net5.0\CSharp_DataTypesAndConstructs.runtimeconfig.dev.json
+C:\Users\BhawnaGunwani\source\repos\SessionTwo_CSharpFundamentals\CSharp_DataTypesAndConstructs\bin\Debug\net5.0\CSharp_DataTypesAndConstructs.dll
+C:\Users\BhawnaGunwani\source\repos\SessionTwo_CSharpFundamentals\CSharp_DataTypesAndConstructs\bin\Debug\net5.0\ref\CSharp_DataTypesAndConstructs.dll
+C:\Users\BhawnaGunwani\source\repos\SessionTwo_CSharpFundamentals\CSharp_DataTypesAndConstructs\bin\Debug\net5.0\CSharp_DataTypesAndConstructs.pdb
+C:\Users\BhawnaGunwani\source\repos\SessionTwo_CSharpFundamentals\CSharp_DataTypesAndConstructs\obj\Debug\net5.0\CSharp_DataTypesAndConstructs.csprojAssemblyReference.cache
+C:\Users\BhawnaGunwani\source\repos\SessionTwo_CSharpFundamentals\CSharp_DataTypesAndConstructs\obj\Debug\net5.0\CSharp_DataTypesAndConstructs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BhawnaGunwani\source\repos\SessionTwo_CSharpFundamentals\CSharp_DataTypesAndConstructs\obj\Debug\net5.0\CSharp_DataTypesAndConstructs.AssemblyInfoInputs.cache
+C:\Users\BhawnaGunwani\source\repos\SessionTwo_CSharpFundamentals\CSharp_DataTypesAndConstructs\obj\Debug\net5.0\CSharp_DataTypesAndConstructs.AssemblyInfo.cs
+C:\Users\BhawnaGunwani\source\repos\SessionTwo_CSharpFundamentals\CSharp_DataTypesAndConstructs\obj\Debug\net5.0\CSharp_DataTypesAndConstructs.csproj.CoreCompileInputs.cache
+C:\Users\BhawnaGunwani\source\repos\SessionTwo_CSharpFundamentals\CSharp_DataTypesAndConstructs\obj\Debug\net5.0\CSharp_DataTypesAndConstructs.dll
+C:\Users\BhawnaGunwani\source\repos\SessionTwo_CSharpFundamentals\CSharp_DataTypesAndConstructs\obj\Debug\net5.0\ref\CSharp_DataTypesAndConstructs.dll
+C:\Users\BhawnaGunwani\source\repos\SessionTwo_CSharpFundamentals\CSharp_DataTypesAndConstructs\obj\Debug\net5.0\CSharp_DataTypesAndConstructs.pdb
+C:\Users\BhawnaGunwani\source\repos\SessionTwo_CSharpFundamentals\CSharp_DataTypesAndConstructs\obj\Debug\net5.0\CSharp_DataTypesAndConstructs.genruntimeconfig.cache

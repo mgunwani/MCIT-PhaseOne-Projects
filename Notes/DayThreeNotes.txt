@@ -1,0 +1,58 @@
+
+C# Fundamentals:
+
+	C# is a strongly-typed language.
+	
+	int num = 10;
+	
+	Data Types:
+	
+		1. Value Type
+			- Simple Primitive Types
+				byte, short, int, long, float,double, char, bool
+			- Enum Types
+			- Struct Types
+			- Nullable Types
+		2. Reference Type
+			- Classes
+			- Interfaces
+			- Arrays
+			- Delegates
+		
+Conditional Constructs:
+	
+	- Simple If Statement
+	- If..Else Statement
+	- If..Else If..Else Statement
+	- Nested If..Else Statement
+	- Switch Statement
+	
+Looping Constructs:
+
+	- For Loop
+	- While Loop
+	- Do..While Loop
+	- ForEach Loop (Enhanced Loop)
+
+
+Non-Conditional Constructs:
+
+	- Break Statement
+	- Continue Statement
+	
+------------------------------------------------------------
+
+Struct Type:
+
+	Structures are blue-prints that is being used to store different types of values in one object body.
+
+Enum Type:
+
+	Enumeration is used to stored a set of named constants such as directions, days, months, project-managers.
+	The default value of enumerations start with 0. It can be further customized.
+	
+Nullable Type:
+	
+	Nullable assigns normal range values as well as null values;
+	
+----------------------------------------------------------
