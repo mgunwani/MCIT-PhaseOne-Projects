@@ -1,0 +1,96 @@
+
+C# - Object Oritented Programming
+
+Object Oritented Key Feature: Data Hiding
+
+Features of OOPS:
+
+	- Hiding and abstracting relvant data.
+	- Reusability of Code and Reducing Time-Efforts of developers
+	- Reducing Time Complexity and so on.
+
+Components of Object Oritented Programming:
+	
+	1. Classes
+	2. Objects
+	3. Encapsulation 
+	4. Abstraction
+	5. Inheritance
+	6. Polymorphism
+	
+---------------------------------------------
+
+1. Class:
+
+	- A Reference Type.
+	- Class is a collection of data members and member functions.
+	- Data Members are variables that are declared at class level.
+	- Member Functions are methods that are declared at class level.
+	- Class is just like a blue-print or user-defined data type.
+
+---------------------------------------------	
+
+2. Object:
+
+	- A variable of user-defined data type.
+	- A representator of a class or instance of the class.
+	- Whenever we create an object of a class, memory gets allocated to the data members of a class.
+
+----------------------------------------------
+
+3. Encapsulation:
+
+	- All the members of a class are by default encapsulated or hidden.
+	- All the members of a class are by default private.
+	
+-----------------------------------------------
+
+4. Abstraction:
+
+	- Essentials or necessary members needs to be accessed from outside the class definition has to be abstract.
+	- To abstract the members of a class, we can use different access modifiers.
+	
+------------------------------------------------
+
+Access Modifiers:
+
+	1. Private: 
+	
+		All the members of a class are by default private.
+		Private members are accessible within its own class.
+		
+	2. Public:
+	
+		Public members are accessible within its own class or outside the class.
+		Public members are accessible from anywhere.
+	
+	3. Protected
+	
+		Protected Members are accessible within its own class and child class.
+		Protected Modifier is used in the case of Inheritance only.
+		
+	4. Internal
+	
+		Internal Members specially classes can be accessible within same Namespace.
+		By default, a class has internal access modifier.
+	
+	
+	5. Protected Internal
+	
+------------------------------------------------
+	
+Constructor:
+
+	A special method that is used to initialize the data members.
+	A name of constructor method is same as that of the class name.
+	Constructor doesn't have any return type.
+	Constructor never to be explicitly by developers.
+	They are implictly called by compilers.
+	Thy are called at the time of creating objects.
+	
+	Constructor Types:
+	
+		- Default Constructor
+		- Parameterized Constructor
+	
+--------------------------------------------------

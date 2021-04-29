@@ -1,0 +1,16 @@
+C:\Users\BhawnaGunwani\source\repos\SessionFour_ObjectOritentedFeatures\ObjectOrientedFundamentals\bin\Debug\net5.0\ObjectOrientedFundamentals.exe
+C:\Users\BhawnaGunwani\source\repos\SessionFour_ObjectOritentedFeatures\ObjectOrientedFundamentals\bin\Debug\net5.0\ObjectOrientedFundamentals.deps.json
+C:\Users\BhawnaGunwani\source\repos\SessionFour_ObjectOritentedFeatures\ObjectOrientedFundamentals\bin\Debug\net5.0\ObjectOrientedFundamentals.runtimeconfig.json
+C:\Users\BhawnaGunwani\source\repos\SessionFour_ObjectOritentedFeatures\ObjectOrientedFundamentals\bin\Debug\net5.0\ObjectOrientedFundamentals.runtimeconfig.dev.json
+C:\Users\BhawnaGunwani\source\repos\SessionFour_ObjectOritentedFeatures\ObjectOrientedFundamentals\bin\Debug\net5.0\ObjectOrientedFundamentals.dll
+C:\Users\BhawnaGunwani\source\repos\SessionFour_ObjectOritentedFeatures\ObjectOrientedFundamentals\bin\Debug\net5.0\ref\ObjectOrientedFundamentals.dll
+C:\Users\BhawnaGunwani\source\repos\SessionFour_ObjectOritentedFeatures\ObjectOrientedFundamentals\bin\Debug\net5.0\ObjectOrientedFundamentals.pdb
+C:\Users\BhawnaGunwani\source\repos\SessionFour_ObjectOritentedFeatures\ObjectOrientedFundamentals\obj\Debug\net5.0\ObjectOrientedFundamentals.csprojAssemblyReference.cache
+C:\Users\BhawnaGunwani\source\repos\SessionFour_ObjectOritentedFeatures\ObjectOrientedFundamentals\obj\Debug\net5.0\ObjectOrientedFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BhawnaGunwani\source\repos\SessionFour_ObjectOritentedFeatures\ObjectOrientedFundamentals\obj\Debug\net5.0\ObjectOrientedFundamentals.AssemblyInfoInputs.cache
+C:\Users\BhawnaGunwani\source\repos\SessionFour_ObjectOritentedFeatures\ObjectOrientedFundamentals\obj\Debug\net5.0\ObjectOrientedFundamentals.AssemblyInfo.cs
+C:\Users\BhawnaGunwani\source\repos\SessionFour_ObjectOritentedFeatures\ObjectOrientedFundamentals\obj\Debug\net5.0\ObjectOrientedFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\BhawnaGunwani\source\repos\SessionFour_ObjectOritentedFeatures\ObjectOrientedFundamentals\obj\Debug\net5.0\ObjectOrientedFundamentals.dll
+C:\Users\BhawnaGunwani\source\repos\SessionFour_ObjectOritentedFeatures\ObjectOrientedFundamentals\obj\Debug\net5.0\ref\ObjectOrientedFundamentals.dll
+C:\Users\BhawnaGunwani\source\repos\SessionFour_ObjectOritentedFeatures\ObjectOrientedFundamentals\obj\Debug\net5.0\ObjectOrientedFundamentals.pdb
+C:\Users\BhawnaGunwani\source\repos\SessionFour_ObjectOritentedFeatures\ObjectOrientedFundamentals\obj\Debug\net5.0\ObjectOrientedFundamentals.genruntimeconfig.cache

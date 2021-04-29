@@ -1,0 +1,12 @@
+C:\Users\BhawnaGunwani\source\repos\SessionFour_ObjectOritentedFeatures\StudentManagmentSystem\bin\Debug\net5.0\StudentManagmentSystem.deps.json
+C:\Users\BhawnaGunwani\source\repos\SessionFour_ObjectOritentedFeatures\StudentManagmentSystem\bin\Debug\net5.0\StudentManagmentSystem.dll
+C:\Users\BhawnaGunwani\source\repos\SessionFour_ObjectOritentedFeatures\StudentManagmentSystem\bin\Debug\net5.0\ref\StudentManagmentSystem.dll
+C:\Users\BhawnaGunwani\source\repos\SessionFour_ObjectOritentedFeatures\StudentManagmentSystem\bin\Debug\net5.0\StudentManagmentSystem.pdb
+C:\Users\BhawnaGunwani\source\repos\SessionFour_ObjectOritentedFeatures\StudentManagmentSystem\obj\Debug\net5.0\StudentManagmentSystem.csprojAssemblyReference.cache
+C:\Users\BhawnaGunwani\source\repos\SessionFour_ObjectOritentedFeatures\StudentManagmentSystem\obj\Debug\net5.0\StudentManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BhawnaGunwani\source\repos\SessionFour_ObjectOritentedFeatures\StudentManagmentSystem\obj\Debug\net5.0\StudentManagmentSystem.AssemblyInfoInputs.cache
+C:\Users\BhawnaGunwani\source\repos\SessionFour_ObjectOritentedFeatures\StudentManagmentSystem\obj\Debug\net5.0\StudentManagmentSystem.AssemblyInfo.cs
+C:\Users\BhawnaGunwani\source\repos\SessionFour_ObjectOritentedFeatures\StudentManagmentSystem\obj\Debug\net5.0\StudentManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\BhawnaGunwani\source\repos\SessionFour_ObjectOritentedFeatures\StudentManagmentSystem\obj\Debug\net5.0\StudentManagmentSystem.dll
+C:\Users\BhawnaGunwani\source\repos\SessionFour_ObjectOritentedFeatures\StudentManagmentSystem\obj\Debug\net5.0\ref\StudentManagmentSystem.dll
+C:\Users\BhawnaGunwani\source\repos\SessionFour_ObjectOritentedFeatures\StudentManagmentSystem\obj\Debug\net5.0\StudentManagmentSystem.pdb
