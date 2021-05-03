@@ -1,0 +1,113 @@
+
+Object Oritented Components:
+
+	1. Classes
+	2. Object
+	3. Encapsulation
+	4. Abstraction
+	5. Inheritance
+	6. Polymorphism
+
+--------------------------------------------------
+
+1. Polymorphism
+2. Overloading and Overridding
+3. Abstract Classes
+4. Interfaces
+-----------------------------
+5. Static Keyword
+
+--------------------------------------------------
+
+Polymorphism:
+
+	Poly means Many
+	Morpho means Forms
+	
+	"One Interface Multiple Functions"
+	
+	E.g. Visual Studio, NetBeans, Eclipse, Atom etc.
+	
+	Static Polymorphism (Overloading):
+	
+	Overloading is a technique to have more than one method with same name but different function signatures(parameters) in same class.
+	
+	Overloading can be achived by different parameters:
+	
+	1. Different Type of Parameters
+	
+		public int addition(int num1, int num2)
+		public float addition(float num1, float num2)
+	
+	2. Different Number of Parameters
+	
+		public int addition(int num1, int num2)
+		public int addition(int num1, int num2, int num3)
+	
+	3. Different Sequence of Parameters
+	
+		public float addition(int num1, float num2)
+		public float addition(float num1, int num2)
+	
+	Dynamic Polymorphism (Overridding):
+	
+	Overridding can be done in derived(child) class. An override method provides a new implementation of a method inherited from parent class.
+	
+	Overridding means giving the new definition to method in class.
+
+----------------------------------------------------------------
+
+Abstract Class and Abstract Method:
+
+	The purpose of abstract class is define the common definition of Base Class that is followed by derived classes as a contract.
+	
+	- An abstract class cannot be instantiated.
+	- An abstract class can contain abstract as well as non-abstract methods.
+	- An abstract method cannot have its implementation in abstract class.
+	- A child class cannot inherit more than abstract or non-abstract classes.
+	- Multiple Inheritance cannot be achieved using abstract classes.
+	- An abstract method can only be declared in abstract class.
+	- All Child/Derived classes must implment all the abstract methods in it.
+	
+----------------------------------------------------------------	
+
+Interface in C#:
+
+	An interface is an contract that can have properties, variables and methods that have to be followed by Child or Derived Classes.
+	
+	- It is not permitted to have access modifer on its method.
+	- All methods of an Interface are public and abstract.
+	- An interface only contains the declaration or signature of methods.
+	- Multiple Inheritance can be achieved using Interfaces
+
+
+----------------------------------------------------------------
+
+BankingApplicationExercise:
+
+		Two Types of Accounts:
+			1. Saving Account:
+				We cannot withdraw more than a limit per day.
+				
+			2. Current Account:
+				No Limit for Current Account.
+
+----------------------------------------------------------------
+
+	Employee employee = new Employee();
+	
+	// To create the variable employee of Employee Type:
+	// To create the reference variable of Employee Class:
+	Employee employee;
+	
+	// Creating Object and allocating memory to data members:
+	new Employee();
+	
+	
+
+
+
+
+
+
+
