@@ -1,0 +1,64 @@
+
+Exception Handling in C#
+File Handling in C#
+Static Class, Static Methods and Static Variables
+
+-----------------------------------------------------
+
+Exception Handling:
+
+	There are few types of errors:
+	
+	1. Compile Time Errors: Errors raised at the time of writing code.
+	
+		a. Syntactical Errors
+			- Misspelled Keywords
+			- Ommits the Semi-Colons to terminate statements
+			- and on on.
+			
+		b. Sementic Errors
+			- When we write incorrect expressions
+				result = num1 + num2;	// Correct Expression
+				num1 + num2 = result;	// Incorrect Expression
+				number % 5 == 0			// Correct Expression
+				number % 5 == true		// Incorrect Expression
+	
+	2. Run Time Errors: Errors raised at execution Time.
+	
+		- Run Time Errors are known as Exceptions.
+		- Exceptions abnormally terminates the program.
+		- To handle the Exception, we use Exception Handling Mechanism.
+	
+	3. Logical Errors: Errors occurred when we do not get expected output.
+	
+-----------------------------------------------------
+	
+Exception Handling Mechanism:
+
+	There are 4 blocks or keywords to perform exception Handling:
+	
+	1. try
+	2. catch
+	3. finally 
+	4. throw
+	
+	try: Any suspected Code that may raise exceptions should put inside a try{} block. During the execution, if an exception occurs, the flow the control jumps to first matching catch block.
+	
+	catch: The catch block is an exception handler block. where you can perform some actions taken, once the exception is raised.
+	
+	finally: The finally block will always be executed whether an exception raised or not. Usually, a finally block should be used to release resources. For e.g. File CLose, Network Disconnect and so on.
+	
+	throw: An exception can be raised manually by using the throw keywords. Any type of exception which is derived from Exception class can be raised using throw keyword.
+	
+---------------------------------------------------------------------	
+	
+File Handling in C#:
+
+Serialization and Deserialization in C#:		
+	
+	
+	
+	
+	
+	
+	

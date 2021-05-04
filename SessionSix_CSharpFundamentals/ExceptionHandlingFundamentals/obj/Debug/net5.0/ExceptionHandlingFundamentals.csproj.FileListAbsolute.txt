@@ -1,0 +1,16 @@
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\ExceptionHandlingFundamentals\bin\Debug\net5.0\ExceptionHandlingFundamentals.exe
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\ExceptionHandlingFundamentals\bin\Debug\net5.0\ExceptionHandlingFundamentals.deps.json
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\ExceptionHandlingFundamentals\bin\Debug\net5.0\ExceptionHandlingFundamentals.runtimeconfig.json
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\ExceptionHandlingFundamentals\bin\Debug\net5.0\ExceptionHandlingFundamentals.runtimeconfig.dev.json
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\ExceptionHandlingFundamentals\bin\Debug\net5.0\ExceptionHandlingFundamentals.dll
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\ExceptionHandlingFundamentals\bin\Debug\net5.0\ref\ExceptionHandlingFundamentals.dll
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\ExceptionHandlingFundamentals\bin\Debug\net5.0\ExceptionHandlingFundamentals.pdb
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\ExceptionHandlingFundamentals\obj\Debug\net5.0\ExceptionHandlingFundamentals.csprojAssemblyReference.cache
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\ExceptionHandlingFundamentals\obj\Debug\net5.0\ExceptionHandlingFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\ExceptionHandlingFundamentals\obj\Debug\net5.0\ExceptionHandlingFundamentals.AssemblyInfoInputs.cache
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\ExceptionHandlingFundamentals\obj\Debug\net5.0\ExceptionHandlingFundamentals.AssemblyInfo.cs
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\ExceptionHandlingFundamentals\obj\Debug\net5.0\ExceptionHandlingFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\ExceptionHandlingFundamentals\obj\Debug\net5.0\ExceptionHandlingFundamentals.dll
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\ExceptionHandlingFundamentals\obj\Debug\net5.0\ref\ExceptionHandlingFundamentals.dll
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\ExceptionHandlingFundamentals\obj\Debug\net5.0\ExceptionHandlingFundamentals.pdb
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\ExceptionHandlingFundamentals\obj\Debug\net5.0\ExceptionHandlingFundamentals.genruntimeconfig.cache

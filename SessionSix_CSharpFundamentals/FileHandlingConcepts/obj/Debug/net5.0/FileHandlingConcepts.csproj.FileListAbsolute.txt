@@ -1,0 +1,16 @@
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\FileHandlingConcepts\bin\Debug\net5.0\FileHandlingConcepts.exe
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\FileHandlingConcepts\bin\Debug\net5.0\FileHandlingConcepts.deps.json
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\FileHandlingConcepts\bin\Debug\net5.0\FileHandlingConcepts.runtimeconfig.json
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\FileHandlingConcepts\bin\Debug\net5.0\FileHandlingConcepts.runtimeconfig.dev.json
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\FileHandlingConcepts\bin\Debug\net5.0\FileHandlingConcepts.dll
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\FileHandlingConcepts\bin\Debug\net5.0\ref\FileHandlingConcepts.dll
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\FileHandlingConcepts\bin\Debug\net5.0\FileHandlingConcepts.pdb
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\FileHandlingConcepts\obj\Debug\net5.0\FileHandlingConcepts.csprojAssemblyReference.cache
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\FileHandlingConcepts\obj\Debug\net5.0\FileHandlingConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\FileHandlingConcepts\obj\Debug\net5.0\FileHandlingConcepts.AssemblyInfoInputs.cache
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\FileHandlingConcepts\obj\Debug\net5.0\FileHandlingConcepts.AssemblyInfo.cs
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\FileHandlingConcepts\obj\Debug\net5.0\FileHandlingConcepts.csproj.CoreCompileInputs.cache
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\FileHandlingConcepts\obj\Debug\net5.0\FileHandlingConcepts.dll
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\FileHandlingConcepts\obj\Debug\net5.0\ref\FileHandlingConcepts.dll
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\FileHandlingConcepts\obj\Debug\net5.0\FileHandlingConcepts.pdb
+C:\Users\BhawnaGunwani\source\repos\SessionSix_CSharpFundamentals\FileHandlingConcepts\obj\Debug\net5.0\FileHandlingConcepts.genruntimeconfig.cache
