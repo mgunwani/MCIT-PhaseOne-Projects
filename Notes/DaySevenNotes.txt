@@ -1,0 +1,65 @@
+
+Static Keyword
+Array in C#
+Generics in C#
+Collections in C#
+Indexers in C#
+Discussion on Project
+
+------------------------------------------------
+
+Static Keyword:
+
+	Static Class
+	Static Method
+	Static Constructor
+	Static Data Member
+	
+-----------------------------
+
+Static Data Member:
+
+	- Static Data Member gets memory only once for a class.
+	- All the objects can share the same copy of static data members.
+
+Static Constructor:
+
+	- Static Constructor is to initialized the static data members.
+	- Static Constructor cannot have any parameter.
+	- In a class, we can have only one static constructor.
+	- Along with static constructors, we can also have Instance Constructor.
+	- We can have static constructor also along with default instance constructor
+	
+Static Method:
+
+	- Static Method is similar to Instance Method.
+	- They can be accessed directly by using class name rather than Object.
+	- If you try to access by instance of the class, it will give error.
+	- We can display or implement the generic functionality using static method.
+
+Static Class:
+
+	- contains only static members means static data members and methods.
+	- cannot be instantiated by using new keyword.
+	- By default, static classes are sealed means they can also not be inherited.
+	- can have default constructor and can have only one constructor.
+	- Access Modifers are not allowed on static constructors.
+	- The members of static class can be accessed by class Name.
+	
+-----------------------------
+
+Arrays:
+	
+	- A variable that is used to store a literal value, but an array is used to store multiple literal values.
+	
+		int number;		// Variable
+		
+		int[] numbers;	// Array
+
+
+
+
+
+
+
+	

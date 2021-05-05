@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticKeywordConcepts", "StaticKeywordConcepts\StaticKeywordConcepts.csproj", "{660DA658-34B6-4B21-8CAF-5E37CAB3344E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionAndArrayConcepts", "CollectionAndArrayConcepts\CollectionAndArrayConcepts.csproj", "{B60E75E5-3388-4AE3-B07D-92AF6815A6B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{660DA658-34B6-4B21-8CAF-5E37CAB3344E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{660DA658-34B6-4B21-8CAF-5E37CAB3344E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{660DA658-34B6-4B21-8CAF-5E37CAB3344E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{660DA658-34B6-4B21-8CAF-5E37CAB3344E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B60E75E5-3388-4AE3-B07D-92AF6815A6B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B60E75E5-3388-4AE3-B07D-92AF6815A6B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B60E75E5-3388-4AE3-B07D-92AF6815A6B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B60E75E5-3388-4AE3-B07D-92AF6815A6B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79C82E93-71DA-4C19-B974-5D550DF1A055}
+	EndGlobalSection
+EndGlobal

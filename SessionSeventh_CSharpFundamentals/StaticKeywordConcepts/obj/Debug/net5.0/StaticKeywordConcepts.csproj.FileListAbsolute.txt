@@ -1,0 +1,16 @@
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\StaticKeywordConcepts\bin\Debug\net5.0\StaticKeywordConcepts.exe
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\StaticKeywordConcepts\bin\Debug\net5.0\StaticKeywordConcepts.deps.json
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\StaticKeywordConcepts\bin\Debug\net5.0\StaticKeywordConcepts.runtimeconfig.json
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\StaticKeywordConcepts\bin\Debug\net5.0\StaticKeywordConcepts.runtimeconfig.dev.json
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\StaticKeywordConcepts\bin\Debug\net5.0\StaticKeywordConcepts.dll
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\StaticKeywordConcepts\bin\Debug\net5.0\ref\StaticKeywordConcepts.dll
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\StaticKeywordConcepts\bin\Debug\net5.0\StaticKeywordConcepts.pdb
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\StaticKeywordConcepts\obj\Debug\net5.0\StaticKeywordConcepts.csprojAssemblyReference.cache
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\StaticKeywordConcepts\obj\Debug\net5.0\StaticKeywordConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\StaticKeywordConcepts\obj\Debug\net5.0\StaticKeywordConcepts.AssemblyInfoInputs.cache
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\StaticKeywordConcepts\obj\Debug\net5.0\StaticKeywordConcepts.AssemblyInfo.cs
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\StaticKeywordConcepts\obj\Debug\net5.0\StaticKeywordConcepts.csproj.CoreCompileInputs.cache
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\StaticKeywordConcepts\obj\Debug\net5.0\StaticKeywordConcepts.dll
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\StaticKeywordConcepts\obj\Debug\net5.0\ref\StaticKeywordConcepts.dll
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\StaticKeywordConcepts\obj\Debug\net5.0\StaticKeywordConcepts.pdb
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\StaticKeywordConcepts\obj\Debug\net5.0\StaticKeywordConcepts.genruntimeconfig.cache

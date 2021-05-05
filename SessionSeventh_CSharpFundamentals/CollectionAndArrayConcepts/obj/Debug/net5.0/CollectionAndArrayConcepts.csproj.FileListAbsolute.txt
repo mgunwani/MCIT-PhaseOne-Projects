@@ -1,0 +1,16 @@
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\CollectionAndArrayConcepts\bin\Debug\net5.0\CollectionAndArrayConcepts.exe
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\CollectionAndArrayConcepts\bin\Debug\net5.0\CollectionAndArrayConcepts.deps.json
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\CollectionAndArrayConcepts\bin\Debug\net5.0\CollectionAndArrayConcepts.runtimeconfig.json
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\CollectionAndArrayConcepts\bin\Debug\net5.0\CollectionAndArrayConcepts.runtimeconfig.dev.json
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\CollectionAndArrayConcepts\bin\Debug\net5.0\CollectionAndArrayConcepts.dll
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\CollectionAndArrayConcepts\bin\Debug\net5.0\ref\CollectionAndArrayConcepts.dll
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\CollectionAndArrayConcepts\bin\Debug\net5.0\CollectionAndArrayConcepts.pdb
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\CollectionAndArrayConcepts\obj\Debug\net5.0\CollectionAndArrayConcepts.csprojAssemblyReference.cache
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\CollectionAndArrayConcepts\obj\Debug\net5.0\CollectionAndArrayConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\CollectionAndArrayConcepts\obj\Debug\net5.0\CollectionAndArrayConcepts.AssemblyInfoInputs.cache
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\CollectionAndArrayConcepts\obj\Debug\net5.0\CollectionAndArrayConcepts.AssemblyInfo.cs
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\CollectionAndArrayConcepts\obj\Debug\net5.0\CollectionAndArrayConcepts.csproj.CoreCompileInputs.cache
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\CollectionAndArrayConcepts\obj\Debug\net5.0\CollectionAndArrayConcepts.dll
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\CollectionAndArrayConcepts\obj\Debug\net5.0\ref\CollectionAndArrayConcepts.dll
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\CollectionAndArrayConcepts\obj\Debug\net5.0\CollectionAndArrayConcepts.pdb
+C:\Users\BhawnaGunwani\source\repos\SessionSeventh_CSharpFundamentals\CollectionAndArrayConcepts\obj\Debug\net5.0\CollectionAndArrayConcepts.genruntimeconfig.cache
